@@ -1,0 +1,30 @@
+.Modal {
+  z-index: 500;
+  background-color: aliceblue;
+  width: 35%;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px black;
+
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  margin: 20px auto;
+}
+
+input {
+  width: 70%;
+  height: 30px;
+  font-size: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+#tovch {
+  width: 50%;
+  height: 30px;
+  font-size: 20px;
+  margin: 10px;
+  text-align: center;
+}
