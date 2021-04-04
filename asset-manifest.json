@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/baatar/static/css/main.98b592ab.chunk.css",
+    "main.js": "/baatar/static/js/main.32ecca92.chunk.js",
+    "main.js.map": "/baatar/static/js/main.32ecca92.chunk.js.map",
+    "runtime-main.js": "/baatar/static/js/runtime-main.bfe14fef.js",
+    "runtime-main.js.map": "/baatar/static/js/runtime-main.bfe14fef.js.map",
+    "static/js/2.dc76fc96.chunk.js": "/baatar/static/js/2.dc76fc96.chunk.js",
+    "static/js/2.dc76fc96.chunk.js.map": "/baatar/static/js/2.dc76fc96.chunk.js.map",
+    "static/js/3.1b085c22.chunk.js": "/baatar/static/js/3.1b085c22.chunk.js",
+    "static/js/3.1b085c22.chunk.js.map": "/baatar/static/js/3.1b085c22.chunk.js.map",
+    "index.html": "/baatar/index.html",
+    "static/css/main.98b592ab.chunk.css.map": "/baatar/static/css/main.98b592ab.chunk.css.map",
+    "static/js/2.dc76fc96.chunk.js.LICENSE.txt": "/baatar/static/js/2.dc76fc96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfe14fef.js",
+    "static/js/2.dc76fc96.chunk.js",
+    "static/css/main.98b592ab.chunk.css",
+    "static/js/main.32ecca92.chunk.js"
+  ]
+}
